@@ -1,7 +1,0 @@
-# ninja log v5
-4	521	6770146520000291	CMakeFiles/labsc__.dir/Text.cpp.obj	1cd5b64a266e3c0b
-4	511	6770149477433328	CMakeFiles/labsc__.dir/main.cpp.obj	25bd898fdf568fe9
-511	895	6770149481235252	labsc__.exe	ff4cd185974f459f
-4	527	6770152794747245	CMakeFiles/labsc__.dir/main.cpp.obj	25bd898fdf568fe9
-9	658	6770152796064886	CMakeFiles/labsc__.dir/function.cpp.obj	f72c202fd01a12e6
-658	798	6770152797418709	labsc__.exe	d7043475e47bb49c

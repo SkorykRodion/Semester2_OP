@@ -1,4 +1,0 @@
-﻿  module.cpp
-D:\study\OP\Semester2_OP\Cpp\lab2\module.cpp(6,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\study\OP\Semester2_OP\Cpp\lab2\module.cpp(8,20): warning C4305: '*=': truncation from 'double' to 'float'
-  lab2.vcxproj -> D:\study\OP\Semester2_OP\Cpp\lab2\Debug\lab2.exe
