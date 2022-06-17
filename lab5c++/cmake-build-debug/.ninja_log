@@ -1,0 +1,15 @@
+# ninja log v5
+8	646	6771175991314585	CMakeFiles/lab5c__.dir/person.cpp.obj	ad2d57a58fcd5177
+518	652	6771196810537665	lab5c__.exe	13897da8cdad27d
+8	517	6771196809190913	CMakeFiles/lab5c__.dir/student.cpp.obj	ab0ba83baaeef613
+4	518	6771196809190913	CMakeFiles/lab5c__.dir/main.cpp.obj	8ea559fac8121d78
+102	942	6771783553689428	CMakeFiles/lab5c__.dir/student.cpp.obj	ab0ba83baaeef613
+106	943	6771783553706834	CMakeFiles/lab5c__.dir/person.cpp.obj	ad2d57a58fcd5177
+111	958	6771783553856935	CMakeFiles/lab5c__.dir/teacher.cpp.obj	62ddb2a151829501
+10	1087	6771783555139129	CMakeFiles/lab5c__.dir/main.cpp.obj	8ea559fac8121d78
+1087	1999	6771783564192888	lab5c__.exe	15d6f4210fef3ed
+4	807	6771784292144613	CMakeFiles/lab5c__.dir/main.cpp.obj	8ea559fac8121d78
+809	1011	6771784294147402	lab5c__.exe	15d6f4210fef3ed
+40	697	6771839173096455	CMakeFiles/lab5c__.dir/teacher.cpp.obj	62ddb2a151829501
+7	852	6771839174635476	CMakeFiles/lab5c__.dir/main.cpp.obj	8ea559fac8121d78
+853	1197	6771839178000835	lab5c__.exe	15d6f4210fef3ed

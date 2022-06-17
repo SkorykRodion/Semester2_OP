@@ -1,0 +1,3 @@
+F:/lab5c++/cmake-build-debug/CMakeFiles/lab5c__.dir
+F:/lab5c++/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/lab5c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
