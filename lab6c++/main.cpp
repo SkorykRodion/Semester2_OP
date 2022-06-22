@@ -7,13 +7,13 @@ int main() {
     input(tree);
     cout<<"Tree:\n";
     cout<<tree;
-    cout<<"Leafs:\n";
+    cout<<"Leafs:";
     vector<TNode*> leafs;
     findLeafs(leafs, tree.getRoot());
     try
     {
         for(auto i: leafs)
-            cout<<i->val<<", ";;
+            cout<<i->val<<" ";;
     }
     catch(std::exception& e)
     {

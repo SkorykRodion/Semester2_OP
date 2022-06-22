@@ -13,13 +13,7 @@ class student:public person {
     stypendium styp;
     void findStyp();
 public:
-    student(): person(){
-        cout<<"Enter student's groupnumber:";
-        cin>>groupnumber;
-        cout<<"Enter student's raiting:";
-        cin>>raiting;
-        findStyp();
-    }
+    student();
     float countPayment() const;
 
     friend ostream &operator<<(ostream &os, const student &student);

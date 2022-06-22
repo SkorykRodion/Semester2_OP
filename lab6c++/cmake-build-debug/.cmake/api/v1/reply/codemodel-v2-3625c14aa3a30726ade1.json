@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "lab5c__",
+					"name" : "lab6c__",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "lab5c__::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-lab5c__-Debug-be7ebd1b10e8bcd94925.json",
-					"name" : "lab5c__",
+					"id" : "lab6c__::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab6c__-Debug-e7ac9c61176e46b3810f.json",
+					"name" : "lab6c__",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "F:/lab5c++/cmake-build-debug",
-		"source" : "F:/lab5c++"
+		"build" : "D:/study/OP/v_git/Semester2_OP/lab6c++/cmake-build-debug",
+		"source" : "D:/study/OP/v_git/Semester2_OP/lab6c++"
 	},
 	"version" : 
 	{

@@ -27,7 +27,7 @@ void Tree::printT(const string &prefix, const TNode *node, bool isLeft)
     {
         cout << prefix;
 
-        cout << "|--";
+        cout << (isLeft ? "|--" : "'--");
 
         cout << node->val << std::endl;
 
@@ -50,6 +50,19 @@ void findLeafs(vector<TNode*>& leafList,TNode* tmp) {
 
 TNode *Tree::getRoot() const {
     return root;
+}
+
+void Tree::insert(char a, TNode *&prev)  {
+    auto cur = new TNode;
+    cur->val=a;
+    cur->left= nullptr;
+    cur->right= nullptr;
+    if(prev == nullptr)
+        prev = cur;
+    else if(cur->val < prev->val)
+        insert(a, prev->left);
+    else
+        insert(a, prev->right);
 }
 
 

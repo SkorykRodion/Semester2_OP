@@ -1,0 +1,9 @@
+# ninja log v5
+0	591	6776186729782341	CMakeFiles/lab6c__.dir/main.cpp.obj	c1f4bccacdfa7a93
+10	625	6776187347833126	CMakeFiles/lab6c__.dir/main.cpp.obj	c1f4bccacdfa7a93
+20	680	6776187348397880	CMakeFiles/lab6c__.dir/Tree.cpp.obj	cab7cdcc45ec9e1a
+681	820	6776187349755203	lab6c__.exe	382cfdb43876ce96
+6	961	6776187892516604	CMakeFiles/lab6c__.dir/Tree.cpp.obj	cab7cdcc45ec9e1a
+961	1170	6776187894629374	lab6c__.exe	382cfdb43876ce96
+11	906	6776188408690076	CMakeFiles/lab6c__.dir/main.cpp.obj	c1f4bccacdfa7a93
+907	1112	6776188410698685	lab6c__.exe	382cfdb43876ce96

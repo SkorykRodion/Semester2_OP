@@ -44,3 +44,11 @@ ostream &operator<<(ostream &os, const student &student) {
 
     return os;
 }
+
+student::student():person(){
+    cout<<"Enter student's groupnumber:";
+    cin>>groupnumber;
+    cout<<"Enter student's raiting:";
+    cin>>raiting;
+    findStyp();
+}

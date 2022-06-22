@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "f:/lab5c++/cmake-build-debug"
+			"value" : "d:/study/OP/v_git/Semester2_OP/lab5c++/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "F:/lab5c++"
+			"value" : "D:/study/OP/v_git/Semester2_OP/lab5c++"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "F:/lab5c++/cmake-build-debug"
+			"value" : "D:/study/OP/v_git/Semester2_OP/lab5c++/cmake-build-debug"
 		},
 		{
 			"name" : "lab5c___IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "F:/lab5c++"
+			"value" : "D:/study/OP/v_git/Semester2_OP/lab5c++"
 		}
 	],
 	"kind" : "cache",
